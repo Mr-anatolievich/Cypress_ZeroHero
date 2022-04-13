@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="42.5550" tests="10" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-04-13T09:25:17" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="First step" timestamp="2022-04-13T09:25:17" tests="10" time="42.4970" failures="0">
+    <testcase name="First step first test" time="5.8820" classname="first test">
+    </testcase>
+    <testcase name="First step second test" time="3.3320" classname="second test">
+    </testcase>
+    <testcase name="First step invoke command" time="2.7670" classname="invoke command">
+    </testcase>
+    <testcase name="First step Datepicker  test" time="3.2110" classname="Datepicker  test">
+    </testcase>
+    <testcase name="First step radioboxes test" time="2.7990" classname="radioboxes test">
+    </testcase>
+    <testcase name="First step checkboxes test" time="3.1990" classname="checkboxes test">
+    </testcase>
+    <testcase name="First step lists and dropdown test" time="3.0070" classname="lists and dropdown test">
+    </testcase>
+    <testcase name="First step Web tabs test" time="11.3670" classname="Web tabs test">
+    </testcase>
+    <testcase name="First step Tooltips" time="2.9930" classname="Tooltips">
+    </testcase>
+    <testcase name="First step browsers dialog box test" time="3.5420" classname="browsers dialog box test">
+    </testcase>
+  </testsuite>
+</testsuites>

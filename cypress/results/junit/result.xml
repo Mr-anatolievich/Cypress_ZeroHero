@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<testsuites>
+<testsuite name="Root Suite" timestamp="2022-04-12T14:41:18" tests="0" file="cypress/integration/testWithPageObject.js" time="22.4880" failures="0">
+  
+  <testcase name=" upt nav menu" time="6.8740" classname="upt nav menu"></testcase>
+  
+  <testcase name="  should test Inline form and Basic form + check Smart Table" time="15.4960" classname=" should test Inline form and Basic form + check Smart Table"></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2022-04-12T14:40:32" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="First step" timestamp="2022-04-12T14:40:32" tests="10" time="38.3940" failures="0">
+  
+  <testcase name="First step first test" time="4.2390" classname="first test"></testcase>
+  
+  <testcase name="First step second test" time="2.4310" classname="second test"></testcase>
+  
+  <testcase name="First step invoke command" time="2.7760" classname="invoke command"></testcase>
+  
+  <testcase name="First step Datepicker  test" time="3.0030" classname="Datepicker  test"></testcase>
+  
+  <testcase name="First step radioboxes test" time="2.7110" classname="radioboxes test"></testcase>
+  
+  <testcase name="First step checkboxes test" time="2.3610" classname="checkboxes test"></testcase>
+  
+  <testcase name="First step lists and dropdown test" time="2.9880" classname="lists and dropdown test"></testcase>
+  
+  <testcase name="First step Web tabs test" time="11.2000" classname="Web tabs test"></testcase>
+  
+  <testcase name="First step Tooltips" time="3.0730" classname="Tooltips"></testcase>
+  
+  <testcase name="First step browsers dialog box test" time="3.1250" classname="browsers dialog box test"></testcase>
+  
+</testsuite>
+
+<testsuite name="Root Suite" timestamp="2022-04-12T14:41:13" tests="0" file="cypress/integration/jsonObject.spec.js" time="0.0000" failures="0"></testsuite>
+<testsuite name="JSON object" timestamp="2022-04-12T14:41:13" tests="1" time="2.3060" failures="0">
+  
+  <testcase name="JSON object JSON Object" time="2.2800" classname="JSON Object"></testcase>
+  
+</testsuite>
+
+</testsuites>

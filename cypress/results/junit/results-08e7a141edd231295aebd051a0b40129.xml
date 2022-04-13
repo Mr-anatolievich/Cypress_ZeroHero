@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="11.1870" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-04-13T10:23:37" tests="0" file="cypress/integration/visualTesting.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="visual testing with plugins" timestamp="2022-04-13T10:23:37" tests="2" time="10.9330" failures="0">
+    <testcase name="visual testing with plugins first test with using snapshots" time="6.9680" classname="first test with using snapshots">
+    </testcase>
+    <testcase name="visual testing with plugins first test with using percy" time="4.1840" classname="first test with using percy">
+    </testcase>
+  </testsuite>
+</testsuites>

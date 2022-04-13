@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="37.0590" tests="0" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-04-13T09:26:30" tests="0" file="cypress/integration/testWithPageObject.js" time="37.0490" failures="0">
+    <testcase name=" upt nav menu" time="8.7880" classname="upt nav menu">
+    </testcase>
+    <testcase name="  should test Inline form and Basic form + check Smart Table" time="28.0650" classname=" should test Inline form and Basic form + check Smart Table">
+    </testcase>
+  </testsuite>
+</testsuites>
